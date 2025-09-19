@@ -5,66 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80984b7d-cd4c-40e3-9804-8d6da2e0e2f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/FBX/World/Materials/RoadDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/FBX/World/Materials/RoadDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelDark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelDark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelWhite.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelWhiteMate.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/Cars/WheelWhiteMate.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/World/Checker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/World/Checker.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/World/Road.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Materials/World/Road.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/Scenes/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/Scenes/Demo.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ACC_Lite/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/FX_Materials/Water_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/FX_Materials/Water_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/PolygonCity_Glass_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/PolygonCity_Glass_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/PolygonCity_Glass_Veh_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonCity/Materials/PolygonCity_Glass_Veh_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MagaraJamRally/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MagaraJamRally/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Materials/PolyAdventureMaterial_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Materials/PolyAdventureMaterial_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Materials/PolyAdventureMaterial_Water_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Materials/PolyAdventureMaterial_Water_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Scenes/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonAdventure/Scenes/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_01_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_01_Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_02_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_02_Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_03_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_03_Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_04_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_04_Dark.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_Snow_To_Grass_Swap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/PolyKnights_Mat_Variation_Snow_To_Grass_Swap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/Statue_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Materials/Statue_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Scenes/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonKnights/Scenes/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Glow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Glow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Texture_01_Vehicle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Texture_01_Vehicle.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/Misc/PolygonPrototype_Water.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Materials/PolygonPrototype_Texture_04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Scenes/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonPrototype/Scenes/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/Misc/PolygonStarter_Mat_01_Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/Misc/PolygonStarter_Mat_01_Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/Plane/PolygonStarter_Mat_Plane_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/Plane/PolygonStarter_Mat_Plane_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Materials/PolygonStarter_Mat_04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Scenes/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SyntyStudios/PolygonStarter/Scenes/Demo.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +47,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrackId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@0d0962426023/Runtime/Data/UniversalRenderPipelineAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@38c58105e446/Runtime/UGUI/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="32t54pyYxMABp1gFqVQwfZSH1Qy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,7 +65,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "arcadeCarController",
+    "git-widget-placeholder": "prometeoCarController",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -163,6 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1758226842315</updated>
       <workItem from="1758226843910" duration="1280000" />
+      <workItem from="1758228317876" duration="254000" />
+      <workItem from="1758234585623" duration="5658000" />
     </task>
     <servers />
   </component>
