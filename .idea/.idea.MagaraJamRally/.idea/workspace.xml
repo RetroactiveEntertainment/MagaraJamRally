@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80984b7d-cd4c-40e3-9804-8d6da2e0e2f5" name="Changes" comment="" />
+    <list default="true" id="80984b7d-cd4c-40e3-9804-8d6da2e0e2f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MapTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MapTest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Notebook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Notebook.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +111,7 @@
       <updated>1758226842315</updated>
       <workItem from="1758226843910" duration="1280000" />
       <workItem from="1758326440521" duration="4074000" />
-      <workItem from="1758453113266" duration="2627000" />
+      <workItem from="1758453113266" duration="3274000" />
     </task>
     <servers />
   </component>

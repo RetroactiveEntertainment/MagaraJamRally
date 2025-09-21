@@ -12,6 +12,8 @@ public class Notebook : MonoBehaviour
     public float raycastMaxDistance = 10f;
     public bool lastClickedOnNotebook = false;
 
+    public AudioSource flipSource;
+
     private void Start()
     {
         pages[0].SetActive(true);
@@ -63,6 +65,9 @@ public class Notebook : MonoBehaviour
 
         pages[currentPageIndex].SetActive(false);
         pages[++currentPageIndex].SetActive(true);
+
+        if (flipSource)
+            flipSource.Play();
     }
 
     public void SwitchToPrevPage()
@@ -72,5 +77,8 @@ public class Notebook : MonoBehaviour
 
         pages[currentPageIndex].SetActive(false);
         pages[--currentPageIndex].SetActive(true);
+        
+        if (flipSource)
+            flipSource.Play();
     }
 }
