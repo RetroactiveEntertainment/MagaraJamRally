@@ -9,5 +9,15 @@ public class CarCollider : MonoBehaviour
         {
             manager.GameEndCanvas();
         }
+
+        if (other.tag == "OutTrack")
+        {
+            manager.EnableOutTrack();
+        }
+
+        if (other.tag == "DeadEnd")
+        {
+            manager.DeadEndCanvas();
+        }
     }
 }
